@@ -1,5 +1,5 @@
 /**
- * @file h3_smp.c
+ * @file h3_smp.cpp
  *
  */
 /* Copyright (C) 2020 by Arjan van Vught mailto:info@orangepi-dmx.nl
